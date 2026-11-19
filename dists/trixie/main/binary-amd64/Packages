@@ -1,0 +1,46 @@
+Package: eniair-shell
+Architecture: amd64
+Version: 0.4.0~dev2
+Priority: optional
+Section: x11
+Maintainer: Eniair Works <eniair@eniairos.local>
+Installed-Size: 1156
+Depends: libc6 (>= 2.38), libcairo2 (>= 1.2.4), libglib2.0-0t64 (>= 2.12.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libwayland-server0 (>= 1.14.91), libwlroots-0.18 (>= 0.18.0), libxkbcommon0 (>= 0.5.0)
+Filename: pool/main/e/eniair-shell/eniair-shell_0.4.0~dev2_amd64.deb
+Size: 1110776
+MD5sum: d6e25881b388e46d5878d52316800add
+SHA1: 27f1b27315e9d8324c8d724184aebb08248cb7b9
+SHA256: 4cdab0a1d1d6966bd03c84a4be948345d96f6cf514b5653e2714f8798e0fab8f
+SHA512: cdcfc4ff6c861832cfed07c9d32f94b50d91bb3d741f6a8fca3614c4461abad4346bb4e8c5e1541301acca9ba993e5b69e982da5bcde10a0fedec186a10d2f38
+Homepage: https://eniair.example/
+Description: EniairOS compositor and shell (Wayland, wlroots-based)
+ EniairOS の顔になる自作コンポジタ／シェル。wlroots の上に
+ ウィンドウの挙動・上部バー・Dock・ランチャー・Wi-Fi パネル・
+ 日本語入力リレーを自分で書いたもの。軽さと美しさの両立が憲法。
+ .
+ This package provides the /usr/bin/eniair-shell binary, the
+ Wayland session entry and the default effects configuration.
+
+Package: eniair-shell
+Architecture: amd64
+Version: 0.4.0~dev3
+Priority: optional
+Section: x11
+Maintainer: Eniair Works <eniair@eniairos.local>
+Installed-Size: 1165
+Depends: libc6 (>= 2.38), libcairo2 (>= 1.2.4), libglib2.0-0t64 (>= 2.12.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libwayland-server0 (>= 1.14.91), libwlroots-0.18 (>= 0.18.0), libxkbcommon0 (>= 0.5.0)
+Filename: pool/main/e/eniair-shell/eniair-shell_0.4.0~dev3_amd64.deb
+Size: 1115344
+MD5sum: 1af40be4b1db2d5d746b95e17a60dca6
+SHA1: 193a73ef221bab0be7a000a97de7d672210d82fa
+SHA256: 4def6e33b47b8822d4470061da9dab68d2538007f16631c24634eb4a1a6ef4c1
+SHA512: cf6e6a4a50d40044cf349c7855ef4afab4b8d7b4dab832d623d07902699734a1b12020fad4a47eb61dccdb8fde0060eb1a3af49e572cd36a9538e7bd5e327d7a
+Homepage: https://eniair.example/
+Description: EniairOS compositor and shell (Wayland, wlroots-based)
+ EniairOS の顔になる自作コンポジタ／シェル。wlroots の上に
+ ウィンドウの挙動・上部バー・Dock・ランチャー・Wi-Fi パネル・
+ 日本語入力リレーを自分で書いたもの。軽さと美しさの両立が憲法。
+ .
+ This package provides the /usr/bin/eniair-shell binary, the
+ Wayland session entry and the default effects configuration.
+

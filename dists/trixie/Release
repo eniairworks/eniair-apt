@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: trixie
+Components: main
+Date: Thu, 19 Nov 2026 21:08:05 +0000
+Description: EniairOS official package repository (Eniair Works)
+Label: EniairOS
+Origin: EniairOS
+Suite: trixie
+MD5Sum:
+ a12f8874757a0ea1fd6450f1bcda51cf              211 Release
+ 98f22f1f470ad418cc845c307fec71f2             2520 main/binary-amd64/Packages
+ cd82bb611973672777ac232542d93632             1108 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-arm64/Packages
+ f31c1c8be9d3c960c9edc0cd15959ea7               29 main/binary-arm64/Packages.gz
+SHA1:
+ aab0abc17d82a294dbb58896447de9d866c19ce2              211 Release
+ a4526f1d3e4001514000ae28dcb75e352ba6a1c3             2520 main/binary-amd64/Packages
+ a2d8090b299bc71825906bae5380394a850fbcd9             1108 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-arm64/Packages
+ 3ec4494639f06075be61996c6bb12d58c2031e44               29 main/binary-arm64/Packages.gz
+SHA256:
+ 051acc6370b78ff08b9ef8e79f13757c21c2c4b8432b8761c89d5dccc417424a              211 Release
+ 057025e985ff30d5545cd814b3521efabb9adb77b7d2ebc27b04605c79732f72             2520 main/binary-amd64/Packages
+ 82f80c5101049cd245790d000b22f6a90ec084796b96a45a553fc91cd9882732             1108 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-arm64/Packages
+ 694e7d7a78c94fe991996980d91416325fc144d222af77a31715e1a7946c3d24               29 main/binary-arm64/Packages.gz
+SHA512:
+ 7add2af873cff344842c187c7df1a3794b023bd36c98754866e9e9d2ad61380bc136d012939c8d6caca716d65f5775f45cd2e39ae5c4995e29200138c3c738f3              211 Release
+ c33c5adafbf1fda6dde025a1d9a4936b12a49f59c9f5ab360171f9339ca595cf40f2d2b909d2f551bd640e5b42da1244be210603a107181de6b5427ede7b9dce             2520 main/binary-amd64/Packages
+ 187fac4ab877e168b1b3464fae05d0186e9905d15ce09c9c512624ed71b7697ac9074a60a6d788fb936b287b77e8fa9e2d9c0fe3e596a534d9f2a9bc679d2278             1108 main/binary-amd64/Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-arm64/Packages
+ 92deda3e371e463cc9f7d503d8942b23feca43da8a49b3faac1b3b8ade8111cdbb7bb190097ab7331815edb5021552d80dc9ea43f818e2e6f3e5bc04a7b5cf70               29 main/binary-arm64/Packages.gz
