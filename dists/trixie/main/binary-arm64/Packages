@@ -1,3 +1,29 @@
+Package: eniair-plymouth-theme
+Architecture: all
+Version: 0.5.0~dev1
+Priority: optional
+Section: x11
+Maintainer: Eniair Works <eniair@eniairos.local>
+Installed-Size: 37
+Depends: plymouth
+Filename: pool/main/e/eniair-plymouth-theme/eniair-plymouth-theme_0.5.0~dev1_all.deb
+Size: 14384
+MD5sum: 825663dea4cad0c1e4ac44370d720a12
+SHA1: c286720e45d66998a191fbf8ef46ab81b06ff77e
+SHA256: 296305354bf931f8d0b234100e0836dcdc2a83c7744797576a4fcf4571f24d7e
+SHA512: 5117035fcfd151c4a389a23071f6ba41426b0006887d9b3c251a4461d1289a7bbd15671c5c369755b9d83ef2f9fa0821235d493787215a228fe4c3a2823b1e16
+Homepage: https://eniair.example/
+Description: EniairOS boot splash theme (Plymouth)
+ EniairOS の起動スプラッシュ。白背景に「EniairOS」のワードマークと
+ 画面下部の細いプログレスバー（淡い青・低彩度）。枠線なし・蛍光色なし。
+ .
+ ロゴは eniair-logo.png 1ファイルの差し替えで更新できる設計。
+ 本人のロゴが届くまでの暫定ワードマークは Inter Light のテキスト描画。
+ .
+ This package only installs the theme files. To use it, run
+ `plymouth-set-default-theme eniair` and then `update-initramfs -u`
+ (and add `splash` to the kernel command line).
+
 Package: eniair-shell
 Architecture: arm64
 Version: 0.4.0~dev5
