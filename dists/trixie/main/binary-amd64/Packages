@@ -187,6 +187,52 @@ Description: EniairOS compositor and shell (Wayland, wlroots-based)
 
 Package: eniair-shell
 Architecture: amd64
+Version: 0.4.0~dev17
+Priority: optional
+Section: x11
+Maintainer: Eniair Works <eniair@eniairos.local>
+Installed-Size: 1776
+Depends: libc6 (>= 2.38), libcairo2 (>= 1.2.4), libglib2.0-0t64 (>= 2.12.0), libpam0g (>= 0.99.7.1), libpango-1.0-0 (>= 1.20.0), libpangocairo-1.0-0 (>= 1.14.0), libsystemd0 (>= 243), libwayland-client0 (>= 1.20.0), libwayland-server0 (>= 1.14.91), libwlroots-0.18 (>= 0.18.0), libxkbcommon0 (>= 0.5.0)
+Filename: pool/main/e/eniair-shell/eniair-shell_0.4.0~dev17_amd64.deb
+Size: 1346688
+MD5sum: f5516b5a806dd4a17ade874f5d1c4345
+SHA1: f722244172c28d1e8faad8623a06e25230b5cfa9
+SHA256: 2774e40a711d9e471ab87377c5e35f3fd034e2c46688736b6d4ff475a5ab50a7
+SHA512: 2a655f3909d8c34b8117caffe5ac1516ddf18c1c813801e52a7dcc1587b8805e21e9d148f746244bc1d05aa4d811065d7574e92ce05f691f548ee0fbda41d164
+Homepage: https://eniair.example/
+Description: EniairOS compositor and shell (Wayland, wlroots-based)
+ EniairOS の顔になる自作コンポジタ／シェル。wlroots の上に
+ ウィンドウの挙動・上部バー・Dock・ランチャー・Wi-Fi パネル・
+ 日本語入力リレーを自分で書いたもの。軽さと美しさの両立が憲法。
+ .
+ This package provides the /usr/bin/eniair-shell binary, the
+ Wayland session entry and the default effects configuration.
+
+Package: eniair-shell
+Architecture: amd64
+Version: 0.4.0~dev18
+Priority: optional
+Section: x11
+Maintainer: Eniair Works <eniair@eniairos.local>
+Installed-Size: 997
+Depends: libc6 (>= 2.38), libcairo2 (>= 1.2.4), libglib2.0-0t64 (>= 2.12.0), libpam0g (>= 0.99.7.1), libpango-1.0-0 (>= 1.20.0), libpangocairo-1.0-0 (>= 1.14.0), libsystemd0 (>= 243), libwayland-client0 (>= 1.20.0), libwayland-server0 (>= 1.14.91), libwlroots-0.18 (>= 0.18.0), libxkbcommon0 (>= 0.5.0)
+Filename: pool/main/e/eniair-shell/eniair-shell_0.4.0~dev18_amd64.deb
+Size: 483492
+MD5sum: 0f1e563db550c20d9301a56dd5afd8b5
+SHA1: d3da586ddc1dc8cbda19700441b15135db1d87d2
+SHA256: c2b53082adf0d25949c675111b2f84897b922ebf14d1e18e0d943ee7c7719beb
+SHA512: 0f8097c2fbbc1476e25a5093ceb692d340270325814d0b73c8f906401043194585ba137d5d3d35ecdffea09dd1290e62c08c3a8585634c9644e55ad0a7c53631
+Homepage: https://eniair.example/
+Description: EniairOS compositor and shell (Wayland, wlroots-based)
+ EniairOS の顔になる自作コンポジタ／シェル。wlroots の上に
+ ウィンドウの挙動・上部バー・Dock・ランチャー・Wi-Fi パネル・
+ 日本語入力リレーを自分で書いたもの。軽さと美しさの両立が憲法。
+ .
+ This package provides the /usr/bin/eniair-shell binary, the
+ Wayland session entry and the default effects configuration.
+
+Package: eniair-shell
+Architecture: amd64
 Version: 0.4.0~dev2
 Priority: optional
 Section: x11
